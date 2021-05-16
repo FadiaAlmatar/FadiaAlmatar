@@ -1,1 +1,1 @@
-we application developer
+web application developer
